@@ -1,0 +1,40 @@
+@import url('https://fonts.google.com/specimen/Roboto+Mono?vfonly=true&preview.size=24&preview.text_type=alphabet');
+
+
+:root {
+    --cor-fundo:aliceblue;
+}
+
+body{ 
+    color:black;
+    background-color:var(--cor-fundo);
+    font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:black; 
+    text-align:center;
+    /*text-decoration:1px red way underline; */
+
+      text-shadow: -10px -10px 10px royalblue,2px 2px 2px thistle;
+}
+
+p {
+    text-indent: 50px;
+}
+
+strong{
+    color:var(--cor-fundo);
+    background-color:blueviolet;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 1.4rem;
+} 
+ 
+#destaque {
+    background-color:black;
+}
+
+p.diferentões {
+    text-align:right ;
+}
