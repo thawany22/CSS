@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
     text-align:center;
     /*text-decoration:1px red way underline; */
 
-      text-shadow: -10px -10px 10px royalblue,2px 2px 2px thistle;
+      text-shadow: -10px -10px 10px rgb(173, 178, 196),2px 2px 2px thistle;
 }
 
 p {
